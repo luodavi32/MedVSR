@@ -1,10 +1,8 @@
 # MedVSR
-MedVSR: a Mandarin medical lip-reading dataset — 305k clips, 56 speakers, 288 hours, with overlap and unseen-speaker splits.
-
-
-# MedVSR
 
 Mandarin medical lip-reading dataset: 305,672 sentence-level clips, 56 speakers, 288 hours, with overlap and unseen-speaker splits.
+
+(The complete dataset will be updated after the paper is accepted…)
 
 MedVSR is a benchmark for sentence-level medical visual speech recognition. Clips come from public Douyin and Bilibili medical videos. Each sample is a spoken sentence with an ASR-derived character transcript. The official metric is sentence-level character error rate (CER) against that transcript. Inference is visual-only.
 
