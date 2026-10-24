@@ -101,15 +101,11 @@ A clip is resolved as `video/<relative_path>` once the video files are released.
 
 The six medical-term types used in the paper (disease, drug, examination or treatment, anatomy or physiology, symptom or sign, dose or unit) are dictionary matches on the transcripts. They describe the corpus. They are not prediction labels.
 
-## Video
+## Data(mp4/wav)
 
 
 …
 
-
-## Audio
-
-…
 
 ## License
 
